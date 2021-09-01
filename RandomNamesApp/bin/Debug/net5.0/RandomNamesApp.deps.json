@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RandomNamesApp/1.0.0": {
+        "runtime": {
+          "RandomNamesApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomNamesApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

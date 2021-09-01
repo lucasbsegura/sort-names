@@ -1,0 +1,16 @@
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\RandomNamesApp.exe
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\RandomNamesApp.deps.json
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\RandomNamesApp.runtimeconfig.json
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\RandomNamesApp.runtimeconfig.dev.json
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\RandomNamesApp.dll
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\ref\RandomNamesApp.dll
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\bin\Debug\net5.0\RandomNamesApp.pdb
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.csprojAssemblyReference.cache
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.AssemblyInfoInputs.cache
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.AssemblyInfo.cs
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.csproj.CoreCompileInputs.cache
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.dll
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\ref\RandomNamesApp.dll
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.pdb
+C:\Users\lucas.baffe.segura\source\repos\RandomNamesApp\RandomNamesApp\obj\Debug\net5.0\RandomNamesApp.genruntimeconfig.cache
